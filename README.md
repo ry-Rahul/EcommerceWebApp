@@ -44,3 +44,18 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# **************\*\***************\_\_\_\_**************\*\***************
+
+# started with react redux template
+
+- npx create-react-app my-app --template redux
+- install tailwind dependencies
+- use tailwind components and change in plugings  
+   require('@tailwindcss/aspect-ratio'),
+  install this package npm i @tailwindcss/aspect-ratio
+  requir('@tailwindcssforms'),
+  npm i @tailwindcss/forms
+
+
+npm install @headlessui/react @heroicons/react
